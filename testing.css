@@ -1,0 +1,11 @@
+body {
+  background-image: url(/building.png);
+  background-repeat: no-repeat;
+  background-size: contain;
+  background-position: bottom;
+}
+
+h1 {
+  color: rgb(255, 100, 255);
+  background-color: red;
+}
